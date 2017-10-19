@@ -1,0 +1,22 @@
+{
+  "name": "hangman-node",
+  "version": "1.0.0",
+  "description": "Hangman game in the command line",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brothhammer/Hangman-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brothhammer/Hangman-Node/issues"
+  },
+  "homepage": "https://github.com/brothhammer/Hangman-Node#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
